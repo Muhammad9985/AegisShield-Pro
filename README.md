@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icons/icon128.png" alt="AegisShield Pro Logo" width="100" height="100" style="filter: drop-shadow(0 0 20px rgba(0, 240, 255, 0.4));" />
+  <img src="logo.png" alt="AegisShield Pro Logo" width="100" height="100" style="filter: drop-shadow(0 0 20px rgba(0, 240, 255, 0.4));" />
 </p>
 
 <h1 align="center">🛡️ AEGISSHIELD PRO</h1>
